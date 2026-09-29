@@ -1,0 +1,4 @@
+interface:
+  display_name: "Candid Photo Prompt"
+  short_description: "有人感的手机抓拍人像：男友视角、朋友随手拍、自拍，用你自己的头像换任意场景"
+  default_prompt: "使用 $candid-photo-prompt，用我给的人物头像写一张有人感的手机抓拍提示词并生成图片。"
